@@ -12,3 +12,7 @@ Includes a modern UI with a runtime timer so you know how long it has been runni
 - Timer shows how long the refresh has been running.
 - Works per-tab (independent intervals for different tabs).
 - Lightweight & efficient (built with Manifest V3).
+
+
+https://github.com/user-attachments/assets/7b07c91d-2712-462f-a988-50e37339eae4
+
