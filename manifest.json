@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Auto Refresh Plugin",
+  "description": "Automatically refresh a webpage at user-defined intervals.",
+  "version": "1.0",
+  "permissions": ["scripting", "tabs", "storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/refresh.png",
+      "48": "icons/refresh.png",
+      "128": "icons/refresh.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
